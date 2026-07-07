@@ -1,5 +1,3 @@
-ドメインリスト
-
 0.html-load.com
 1.html-load.com
 1.v.html-load.com

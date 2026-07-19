@@ -1,3 +1,3 @@
 ```text
-https://raw.githubusercontent.com/kiyu4776/Idometa-ads/main/hosts.txt
+https://raw.githubusercontent.com/kiyu4776/Yidmetra-ads/main/hosts.txt
 ```

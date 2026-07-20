@@ -106,3 +106,11 @@
 0.0.0.0 js.onaxioms.com
 0.0.0.0 edayo.waqool.com
 0.0.0.0 edayo.onaxioms.com
+0.0.0.0 img.dsp.bance.jp
+0.0.0.0 js.dsp.bance.jp
+0.0.0.0 tr.dsp.bance.jp
+0.0.0.0 tr.ssp.bance.jp
+0.0.0.0 audiencedata.im-apps.net
+0.0.0.0 dmp.im-apps.net
+0.0.0.0 server.jp1media.com
+

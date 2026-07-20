@@ -30,8 +30,6 @@ advertiserscommunity.com
 adwords-community.com
 adwords.com
 adwordsexpress.com
-analytics-alv.google.com
-analytics.google.com
 app-analytics-services-att.com
 app-analytics-services.com
 app-measurement-cn.com
@@ -45,7 +43,6 @@ doubleclick.com
 doubleclick.net
 fcmatch.google.com
 google-analytics-cn.com
-google-analytics.com
 googleadapis.com
 googleadapis.l.google.com
 googleads-cn.com
@@ -58,8 +55,6 @@ googleoptimize-cn.com
 googleoptimize.com
 googlesyndication-cn.com
 googlesyndication.com
-googletagmanager-cn.com
-googletagmanager.com
 googletagservices-cn.com
 googletagservices.com
 googletraveladservices-cn.com
@@ -75,7 +70,6 @@ partnerad.l.google.com
 tracking.game8.jp
 urchin.com
 wpadmngr.com
-www.google-analytics.com
 www.zeala.link
 js.ssp.bance.jp
 letterrecoveryunplanted.com
@@ -109,7 +103,6 @@ gadzooksrudely.com
 rise.enhance.co.jp
 media.assistads.net
 glssp.net
-analytics.ahrefs.com
 js.onaxioms.com
 edayo.waqool.com
 edayo.onaxioms.com
